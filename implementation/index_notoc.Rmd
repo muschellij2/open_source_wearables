@@ -20,20 +20,6 @@ output:
 
 
 
-# Team Members:
-- John Muschelli - Johns Hopkins, Statistician
-- Jeff Goldsmith -- Columbia, Biostatistician and cheer package author
-- Julia Wrobel - Colorado School of Public Health, Biostatistician	
-- Luis Jaimes- Florida Polytechnic University,  Computer Science
-- Brinnae Bent - Duke, Data Science & Biomedical Engineering
-- Zhenke Wu - Michigan Biostatistician	
-- Jessilyn Dunn- Duke, Biomedical Engineering & Bioinformatics
-- Marta Karas - Johns Hopkins University, Biostatistics
-- Irina Gaynanova - Texas A&M University, Statistician
-- Jiawei Bai - Johns Hopkins, Biostatistician7
-- Larsson Omberg - Sage Bionetworks.
-
-
 # Landscape of Data/Code Repos
 
 - https://github.com/Big-Ideas-Lab/DBDP

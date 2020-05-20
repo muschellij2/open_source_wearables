@@ -14,7 +14,11 @@ all:
 	done
 	Rscript -e "rmarkdown::render('index.Rmd')"
 	Rscript -e "rmarkdown::render('index_notoc.Rmd')"
+	Rscript -e "rmarkdown::render('README.Rmd')"
 #  
+
+README.md: README.Rmd 
+	Rscript -e "rmarkdown::render('README.Rmd')"
 
 index.html: index.Rmd 
 	Rscript -e "rmarkdown::render('index.Rmd')"
