@@ -1,0 +1,21 @@
+---
+title: "Installing devtools"
+author: "John Muschelli"
+date: "2020-05-20"
+output: 
+  html_document:
+    keep_md: true
+    theme: cosmo
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+    number_sections: true
+---
+
+
+# Available Data
+
+- https://springernature.figshare.com/collections/Upper_limb_activity_of_twenty_myoelectric_prosthesis_users_and_twenty_healthy_anatomically_intact_adults_/4457855
+- https://www.nature.com/articles/s41597-019-0211-6 
+- https://zenodo.org/record/1160410

@@ -8,7 +8,7 @@ all_indices = list.files(pattern = "[.]Rmd$",
                          recursive = TRUE)
 all_indices = all_indices[ grep("notoc[.]Rmd$", all_indices, invert = TRUE)]
 all_indices = all_indices[ file.exists(gsub(".Rmd$", ".md", all_indices))]
-all_indices = setdiff(all_indices, "index.Rmd")
+all_indices = setdiff(all_indices, c("index.Rmd", "README.Rmd"))
 fname = all_indices[2]
 subber = TRUE
 
