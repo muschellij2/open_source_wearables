@@ -21,9 +21,10 @@ If you want to contribute, please visit https://github.com/muschellij2/open_sour
 
 # Guides/Info Sheets
 
+<div style="font-size:22pt">
 1. [Software & Implementation](implementation/index.html)
 2. [Open Data](data/index.html)
-
+</div>
 
 # Team Members:
 - John Muschelli - Johns Hopkins, Statistician
