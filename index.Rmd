@@ -15,7 +15,15 @@ output:
 
 The goal of open_source_wearables is to provide a set of links and information with respect to open-source wearable device processing and analysis.  If you would like to add links, please send a pull request.
 
-The initial information for this repository was compiled at the [BIRS Use of Wearable and Implantable Devices in Health Research conference](https://workshops.birs.ca/events/20w5109/schedule), organized by Ashkan Ertefaie and chaired by Ciprian Crainiceanu and the following team members regarding software.s
+The initial information for this repository was compiled at the [BIRS Use of Wearable and Implantable Devices in Health Research conference](https://workshops.birs.ca/events/20w5109/schedule), organized by Ashkan Ertefaie and chaired by Ciprian Crainiceanu and the team members below.
+
+If you want to contribute, please visit https://github.com/muschellij2/open_source_wearables.  
+
+# Guides/Info Sheets
+
+1. [Software & Implementation](implementation/index.html)
+2. [Open Data](data/index.html)
+
 
 # Team Members:
 - John Muschelli - Johns Hopkins, Statistician
@@ -30,9 +38,4 @@ The initial information for this repository was compiled at the [BIRS Use of Wea
 - Jiawei Bai - Johns Hopkins, Biostatistician
 - Larsson Omberg - Sage Bionetworks.
 
-
-# Guides/Info Sheets
-
-1. [Software & Implementation](implementation/index.html)
-2. [Open Data](data/index.html)
 
