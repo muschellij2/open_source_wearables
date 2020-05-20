@@ -1,5 +1,5 @@
 ---
-title: "Installing devtools"
+title: "Open Data"
 author: "John Muschelli"
 date: "`r Sys.Date()`"
 output: 

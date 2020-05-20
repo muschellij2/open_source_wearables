@@ -1,5 +1,5 @@
 ---
-title: "Neuroconductor"
+title: "Open Source Wearable Software and Information"
 date: '`r Sys.Date()`'
 output: 
   html_document:
@@ -11,54 +11,28 @@ output:
       collapsed: false
 ---
 
-# Guides for Developers {#devguides}
 
-1. [Preparing Your Package for Submission](getting_ready_for_submission/index.html)
-2. [Changes to your Package](continuous_integration/index.html)
 
-# Frequently Asked Questions (FAQ)
+The goal of open_source_wearables is to provide a set of links and information with respect to open-source wearable device processing and analysis.  If you would like to add links, please send a pull request.
 
-Please visit the [FAQ](faq/index.html) for information on how to begin.
+The initial information for this repository was compiled at the [BIRS Use of Wearable and Implantable Devices in Health Research conference](https://workshops.birs.ca/events/20w5109/schedule), organized by Ashkan Ertefaie and chaired by Ciprian Crainiceanu and the following team members regarding software.s
 
-# Installation Guides {#install}
+# Team Members:
+- John Muschelli - Johns Hopkins, Statistician
+- Jeff Goldsmith -- Columbia, Biostatistician and cheer package author
+- Julia Wrobel - Colorado School of Public Health, Biostatistician	
+- Luis Jaimes- Florida Polytechnic University,  Computer Science
+- Brinnae Bent - Duke, Data Science & Biomedical Engineering
+- Zhenke Wu - Michigan Biostatistician	
+- Jessilyn Dunn- Duke, Biomedical Engineering & Bioinformatics
+- Marta Karas - Johns Hopkins University, Biostatistics
+- Irina Gaynanova - Texas A&M University, Statistician
+- Jiawei Bai - Johns Hopkins, Biostatistician
+- Larsson Omberg - Sage Bionetworks.
 
-1. [Using the Windows Subsystem for Linux](windows_wsl/index.html)
-2. [Installing devtools](installing_devtools/index.html)
-3. [Installing ANTsR](installing_ANTsR/index.html)
 
-# Required Readings {#req}
+# Guides/Info Sheets
 
-1. [NIfTI Basics](nifti_basics/index.html)
-2. [Viewing Data: Linked Viewers](linked_viewers/index.html)
-
-# Data
-1. [Downloading Human Connectome Project Data](neurohcp/index.html)
-1. [Downloading Functional Connectomes Projects](fcp_indi/index.html)
-
-# General Tutorials {#tutorials}
-
-## Structural Imaging
-
-1. [Brain Extraction](brain_extraction/index.html)
-2. [Brain Extraction for CT](ss_ct/index.html)
-3. [Tissue-Class Segmentation](tissue_class_segmentation/index.html)
-4. [Labeling Brain Structures](label_image/index.html)
-5. [Processing Within-Visit Structural MRI](preprocess_mri_within/index.html)
-6. [Cortical Thickness Estimation (NOT DONE)](cortical_thickness/index.html)
-
-## fMRI 
-
-4. [Resting-State fMRI analysis using ANTsR](fmri_analysis_ANTsR/index.html)
-5. [Resting-State fMRI analysis using fslr](fmri_analysis_fslr/index.html)
-5. [Resting-State fMRI analysis using spm12r](fmri_analysis_spm12r/index.html)
-
-## DTI
-7. [DTI analysis with fslr](DTI_analysis_fslr/index.html)
-8. [DTI analysis with Camino](DTI_analysis_rcamino/index.html)
-8. [DTI analysis with Camino with HCP data](DTI_analysis_rcamino_hcp/index.html)
-
-# Disease-specific Tutorials
-
-1. [Multiple Sclerosis Lesion Segmentation](ms_lesion/index.html)
-
+1. [Software & Implementation](implementation/index.html)
+2. [Open Data](data/index.html)
 
