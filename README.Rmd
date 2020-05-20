@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 
 The goal of open_source_wearables is to provide a set of links and information with respect to open-source wearable device processing and analysis.  If you would like to add links, please send a pull request.
 
-The initial information for this repository was compiled at the [BIRS Use of Wearable and Implantable Devices in Health Research conference](https://workshops.birs.ca/events/20w5109/schedule), organized by Ashkan Ertefaie and chaired by Ciprian Crainiceanu and the following team members regarding software.s
+The initial information for this repository was compiled at the [BIRS Use of Wearable and Implantable Devices in Health Research conference](https://workshops.birs.ca/events/20w5109/schedule), organized by Ashkan Ertefaie and chaired by Ciprian Crainiceanu and the following team members regarding software.
 
 # Team Members:
 - John Muschelli - Johns Hopkins, Statistician

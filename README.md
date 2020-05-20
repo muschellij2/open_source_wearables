@@ -15,7 +15,7 @@ The initial information for this repository was compiled at the [BIRS
 Use of Wearable and Implantable Devices in Health Research
 conference](https://workshops.birs.ca/events/20w5109/schedule),
 organized by Ashkan Ertefaie and chaired by Ciprian Crainiceanu and the
-following team members regarding software.s
+following team members regarding software.
 
 # Team Members:
 
